@@ -1,3 +1,5 @@
+#!/bin/bash
+
 while true; do
     date
     arp -n -i eth0
